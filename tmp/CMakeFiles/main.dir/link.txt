@@ -1,0 +1,1 @@
+/home/frodo/public/ugls_lab-4.4.2/bin/c++ -rdynamic CMakeFiles/main.dir/src/main.cpp.o -o main  -lglut -lXi /usr/lib64/libGLEW.so /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so 

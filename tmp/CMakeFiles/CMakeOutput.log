@@ -1,0 +1,264 @@
+The system is: Linux - 3.10.0-1160.36.2.el7.x86_64 - x86_64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /home/frodo/public/ugls_lab-4.4.2/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/samarbarrett/cpp_project-fractal-visualizer/tmp/CMakeFiles/3.20.1/CompilerIdCXX/a.out"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/samarbarrett/cpp_project-fractal-visualizer/tmp/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_b2e6e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_b2e6e.dir/build.make CMakeFiles/cmTC_b2e6e.dir/build
+gmake[1]: Entering directory `/home/samarbarrett/cpp_project-fractal-visualizer/tmp/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o
+/home/frodo/public/ugls_lab-4.4.2/bin/c++   -v -o CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o -c /home/frodo/public/ugls_lab-4.4.2/packages/cmake-3.20.1/share/cmake-3.20/Modules/CMakeCXXCompilerABI.cpp
+Using built-in specs.
+COLLECT_GCC=/home/frodo/public/ugls_lab-4.4.2/packages/gcc/bin/g++
+Target: x86_64-pc-linux-gnu
+Configured with: ../src/configure --prefix=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0 --with-default-libstdcxx-abi=gcc4-compatible --enable-threads=posix --enable-tls --disable-multilib --enable-languages=all
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.1.0 (GCC) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b2e6e.dir/'
+ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/cc1plus -quiet -v -D_GNU_SOURCE /home/frodo/public/ugls_lab-4.4.2/packages/cmake-3.20.1/share/cmake-3.20/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_b2e6e.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/ccLZmiK1.s
+GNU C++17 (GCC) version 11.1.0 (x86_64-pc-linux-gnu)
+	compiled by GNU C version 11.1.0, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../x86_64-pc-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/frodo/public/ugls_lab-4.4.2/packages/boost/include
+ /home/frodo/public/ugls_lab-4.4.2/packages/catch/include
+ /home/frodo/public/ugls_lab-4.4.2/packages/gsl/include
+ /home/frodo/public/ugls_lab-4.4.2/packages/CGAL/include
+ /home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/include
+ /home/frodo/public/ugls_lab-4.4.2/packages/jasper/include
+ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0
+ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu
+ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward
+ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include
+ /usr/local/include
+ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include
+ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed
+ /usr/include
+End of search list.
+GNU C++17 (GCC) version 11.1.0 (x86_64-pc-linux-gnu)
+	compiled by GNU C version 11.1.0, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: e37193a4919905b931a5c4b65c7e75da
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b2e6e.dir/'
+ as -v --64 -o CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccLZmiK1.s
+GNU assembler version 2.27 (x86_64-redhat-linux) using BFD version version 2.27-44.base.el7
+COMPILER_PATH=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/
+LIBRARY_PATH=/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib/:/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.'
+Linking CXX executable cmTC_b2e6e
+/home/frodo/public/ugls_lab-4.4.2/packages/cmake-3.20.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b2e6e.dir/link.txt --verbose=1
+/home/frodo/public/ugls_lab-4.4.2/bin/c++  -v -rdynamic CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_b2e6e 
+Using built-in specs.
+COLLECT_GCC=/home/frodo/public/ugls_lab-4.4.2/packages/gcc/bin/g++
+COLLECT_LTO_WRAPPER=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/lto-wrapper
+Target: x86_64-pc-linux-gnu
+Configured with: ../src/configure --prefix=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0 --with-default-libstdcxx-abi=gcc4-compatible --enable-threads=posix --enable-tls --disable-multilib --enable-languages=all
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.1.0 (GCC) 
+COMPILER_PATH=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/
+LIBRARY_PATH=/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib/:/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_b2e6e' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_b2e6e.'
+ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/collect2 -plugin /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/liblto_plugin.so -plugin-opt=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccrsR25k.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_b2e6e /lib/../lib64/crt1.o /lib/../lib64/crti.o /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbegin.o -L/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/../lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/../lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/../lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/../lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0 -L/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib -L/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../.. CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o -rpath /home/frodo/public/ugls_lab-4.4.2/packages/boost/lib -rpath /home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64 -rpath /home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64 -rpath /home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64 -rpath /home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64 -rpath /home/frodo/public/ugls_lab-4.4.2/packages/gcc/lib64 -lfmt -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtend.o /lib/../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_b2e6e' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_b2e6e.'
+gmake[1]: Leaving directory `/home/samarbarrett/cpp_project-fractal-visualizer/tmp/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/boost/include]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/catch/include]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/gsl/include]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/include]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/include]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/jasper/include]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include]
+    add: [/usr/local/include]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include]
+    add: [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/boost/include] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/boost/include]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/catch/include] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/catch/include]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/gsl/include] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/gsl/include]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/include] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/include]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/include] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/include]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/jasper/include] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/jasper/include]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include/c++/11.1.0]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include/c++/11.1.0/x86_64-pc-linux-gnu]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include/c++/11.1.0/backward]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include]
+  collapse include dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/home/frodo/public/ugls_lab-4.4.2/packages/boost/include;/home/frodo/public/ugls_lab-4.4.2/packages/catch/include;/home/frodo/public/ugls_lab-4.4.2/packages/gsl/include;/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/include;/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/include;/home/frodo/public/ugls_lab-4.4.2/packages/jasper/include;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include/c++/11.1.0;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include/c++/11.1.0/x86_64-pc-linux-gnu;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include/c++/11.1.0/backward;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include;/usr/local/include;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed;/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/samarbarrett/cpp_project-fractal-visualizer/tmp/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_b2e6e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_b2e6e.dir/build.make CMakeFiles/cmTC_b2e6e.dir/build]
+  ignore line: [gmake[1]: Entering directory `/home/samarbarrett/cpp_project-fractal-visualizer/tmp/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/home/frodo/public/ugls_lab-4.4.2/bin/c++   -v -o CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o -c /home/frodo/public/ugls_lab-4.4.2/packages/cmake-3.20.1/share/cmake-3.20/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/home/frodo/public/ugls_lab-4.4.2/packages/gcc/bin/g++]
+  ignore line: [Target: x86_64-pc-linux-gnu]
+  ignore line: [Configured with: ../src/configure --prefix=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0 --with-default-libstdcxx-abi=gcc4-compatible --enable-threads=posix --enable-tls --disable-multilib --enable-languages=all]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 11.1.0 (GCC) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b2e6e.dir/']
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/cc1plus -quiet -v -D_GNU_SOURCE /home/frodo/public/ugls_lab-4.4.2/packages/cmake-3.20.1/share/cmake-3.20/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_b2e6e.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/ccLZmiK1.s]
+  ignore line: [GNU C++17 (GCC) version 11.1.0 (x86_64-pc-linux-gnu)]
+  ignore line: [	compiled by GNU C version 11.1.0  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../x86_64-pc-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/boost/include]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/catch/include]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/gsl/include]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/CGAL/include]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/include]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/jasper/include]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/include]
+  ignore line: [ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++17 (GCC) version 11.1.0 (x86_64-pc-linux-gnu)]
+  ignore line: [	compiled by GNU C version 11.1.0  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: e37193a4919905b931a5c4b65c7e75da]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b2e6e.dir/']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccLZmiK1.s]
+  ignore line: [GNU assembler version 2.27 (x86_64-redhat-linux) using BFD version version 2.27-44.base.el7]
+  ignore line: [COMPILER_PATH=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib/:/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.']
+  ignore line: [Linking CXX executable cmTC_b2e6e]
+  ignore line: [/home/frodo/public/ugls_lab-4.4.2/packages/cmake-3.20.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b2e6e.dir/link.txt --verbose=1]
+  ignore line: [/home/frodo/public/ugls_lab-4.4.2/bin/c++  -v -rdynamic CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_b2e6e ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/home/frodo/public/ugls_lab-4.4.2/packages/gcc/bin/g++]
+  ignore line: [COLLECT_LTO_WRAPPER=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/lto-wrapper]
+  ignore line: [Target: x86_64-pc-linux-gnu]
+  ignore line: [Configured with: ../src/configure --prefix=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0 --with-default-libstdcxx-abi=gcc4-compatible --enable-threads=posix --enable-tls --disable-multilib --enable-languages=all]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 11.1.0 (GCC) ]
+  ignore line: [COMPILER_PATH=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib/:/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/:/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_b2e6e' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_b2e6e.']
+  link line: [ /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/collect2 -plugin /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/liblto_plugin.so -plugin-opt=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccrsR25k.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_b2e6e /lib/../lib64/crt1.o /lib/../lib64/crti.o /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbegin.o -L/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/../lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/../lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/../lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/../lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0 -L/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib -L/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64 -L/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../.. CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o -rpath /home/frodo/public/ugls_lab-4.4.2/packages/boost/lib -rpath /home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64 -rpath /home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64 -rpath /home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64 -rpath /home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64 -rpath /home/frodo/public/ugls_lab-4.4.2/packages/gcc/lib64 -lfmt -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtend.o /lib/../lib64/crtn.o]
+    arg [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/libexec/gcc/x86_64-pc-linux-gnu/11.1.0/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccrsR25k.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_b2e6e] ==> ignore
+    arg [/lib/../lib64/crt1.o] ==> obj [/lib/../lib64/crt1.o]
+    arg [/lib/../lib64/crti.o] ==> obj [/lib/../lib64/crti.o]
+    arg [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbegin.o] ==> obj [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbegin.o]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/../lib64] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/../lib64]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/../lib64] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/../lib64]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/../lib64] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/../lib64]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/../lib64] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/../lib64]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib64] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64]
+    arg [-L/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../..] ==> dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../..]
+    arg [CMakeFiles/cmTC_b2e6e.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/home/frodo/public/ugls_lab-4.4.2/packages/gcc/lib64] ==> ignore
+    arg [-lfmt] ==> lib [fmt]
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtend.o] ==> obj [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtend.o]
+    arg [/lib/../lib64/crtn.o] ==> obj [/lib/../lib64/crtn.o]
+  collapse obj [/lib/../lib64/crt1.o] ==> [/lib64/crt1.o]
+  collapse obj [/lib/../lib64/crti.o] ==> [/lib64/crti.o]
+  collapse obj [/lib/../lib64/crtn.o] ==> [/lib64/crtn.o]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64/../lib64] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64/../lib64] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64/../lib64] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64/../lib64] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib64] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64]
+  collapse library dir [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../..] ==> [/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib]
+  implicit libs: [fmt;stdc++;m;gcc_s;gcc;c;gcc_s;gcc]
+  implicit objs: [/lib64/crt1.o;/lib64/crti.o;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbegin.o;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtend.o;/lib64/crtn.o]
+  implicit dirs: [/home/frodo/public/ugls_lab-4.4.2/packages/catch/lib64;/home/frodo/public/ugls_lab-4.4.2/packages/CGAL/lib64;/home/frodo/public/ugls_lab-4.4.2/packages/fmtlib/lib64;/home/frodo/public/ugls_lab-4.4.2/packages/jasper/lib64;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib/gcc/x86_64-pc-linux-gnu/11.1.0;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib64;/lib64;/usr/lib64;/home/frodo/public/ugls_lab-4.4.2/packages/boost/lib;/home/frodo/public/ugls_lab-4.4.2/packages/gcc-11.1.0/lib]
+  implicit fwks: []
+
+

@@ -1,0 +1,7 @@
+name "Samuel Barrett"
+student_id "V00876608"
+email "samarbarrett@uvic.ca"
+term "2021-05"
+course "SENG475"
+section "T01"
+assignment "cpp_project"

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/samarbarrett/cpp_project-fractal-visualizer/tmp",
+  "command": "/home/frodo/public/ugls_lab-4.4.2/bin/c++  -I/home/samarbarrett/cpp_project-fractal-visualizer/include -Werror -Wall -Wextra -O3 -g -o CMakeFiles/test_henon.dir/test/test_henon.cpp.o -c /home/samarbarrett/cpp_project-fractal-visualizer/test/test_henon.cpp",
+  "file": "/home/samarbarrett/cpp_project-fractal-visualizer/test/test_henon.cpp"
+},
+{
+  "directory": "/home/samarbarrett/cpp_project-fractal-visualizer/tmp",
+  "command": "/home/frodo/public/ugls_lab-4.4.2/bin/c++  -I/home/samarbarrett/cpp_project-fractal-visualizer/include -Werror -Wall -Wextra -O3 -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/samarbarrett/cpp_project-fractal-visualizer/src/main.cpp",
+  "file": "/home/samarbarrett/cpp_project-fractal-visualizer/src/main.cpp"
+}
+]
